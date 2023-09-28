@@ -1,1 +1,1 @@
-# My-recipe
+The Odin recipes Project is a simple HTML website that allows you to practice  your basic knowledge of HTML tags, links, lists, and other fundamental concepts that you have just learned in the previous lessons.
